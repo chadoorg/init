@@ -19,3 +19,5 @@
 <br/><a class="w3-bar-item w3-button" href="//zlat.chado.org/">Чадо Златоуст</a>
 <br/><a class="w3-bar-item w3-button" href="//www.chado.org">Чадо Россия</a>
 </div></div>
+
+всего 15 городов расположенных на собственных поддоменах.
