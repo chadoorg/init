@@ -40,10 +40,10 @@
 &hellip;<a href="https://vk.com/zlat.chadoorg">VK Zlat</a>
 
 <br/><a class="w3-bar-item w3-button" href="//omsk.chado.org">Чадо Омск</a>
-&hellip;<a href="https://vk.com/club154630137">VK OMSK</a>
+&hellip;<a href="https://vk.com/omsk.chadoorg">VK OMSK</a>
 
 <br/><a class="w3-bar-item w3-button" href="//rst.chado.org">Чадо Ростов-на-Дону</a>
-&hellip;<a href="https://vk.com/club154630386">VK RST</a>
+&hellip;<a href="https://vk.com/rst.chadoorg">VK RST</a>
 
 <br/><a class="w3-bar-item w3-button" href="//www.chado.org">Чадо Россия</a>
 </div></div>
