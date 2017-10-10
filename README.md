@@ -46,6 +46,7 @@
 &hellip;<a href="https://vk.com/rst.chadoorg">VK RST</a>
 
 <br/><a class="w3-bar-item w3-button" href="//www.chado.org">Чадо Россия</a>
+&hellip;<a href="https://vk.com/chadopage">VK Russia</a>
 </div></div>
 
 всего 15 городов расположенных на собственных поддоменах.
